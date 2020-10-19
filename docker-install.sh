@@ -32,4 +32,6 @@ sudo passwd $user
 sudo usermod -aG sudo $user
 echo ************SETTING UP DOCKER AS NON-ROOT*************
 sudo usermod -aG docker $user
+ls
+pwd
 sudo su - $user
