@@ -25,7 +25,7 @@ sudo apt-get install -y docker-ce docker-ce-cli containerd.io
 
 echo **********INSTALLATION FINISHED*************
 
-echo **********setup username***************
+echo **********Creating NewUser***************
 read -p 'NodeName: ' user
 sudo adduser $user --disabled-password
 sudo passwd $user
