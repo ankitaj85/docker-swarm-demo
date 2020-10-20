@@ -1,14 +1,14 @@
 # clone repo and repo contain script to install docker and setup newuser inside ec2 instance
 
-* step 1: git clone https://github.com/ankitaj85/docker-swarm-demo.git
+* step 1: `git clone https://github.com/ankitaj85/docker-swarm-demo.git`
 
-* step 2: cd docker-swarm-demo
+* step 2: `cd docker-swarm-demo`
 
-* step 3: ./docker-install.sh
+* step 3: `./docker-install.sh`
 
-* step 4: Check docker installation : docker run hello-world
+* step 4: Check docker installation : `docker run hello-world`
 
-* setp 5: git clone https://github.com/docker/example-voting-app.git
+* setp 5:` git clone https://github.com/docker/example-voting-app.git`
 
 
 # Initializing Docker Swarm 
