@@ -22,7 +22,7 @@
 * `docker node rm id` 
 
 
-# Get Join token run mangaer node
+# Get Join token run this command on manager node
 * `sudo docker swarm join-token worker`
 
 
